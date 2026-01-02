@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fibi-cars-74194519.zappy5.app/sitemap.xml

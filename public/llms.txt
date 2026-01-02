@@ -1,0 +1,57 @@
+# Fibi Cars — Generative Engine Optimization Map
+
+> A יבוא רכב business.
+
+---
+
+## Pages
+
+### דף הבית
+https://fibi-cars-74194519.zappy5.app
+גלו את שירותי יבוא מכוניות יוקרה המובילים בישראל. מכוניות ספורט וטנדרים חשמליים לעסקים. צרו קשר עוד היום!
+
+### השירותים שלנו
+https://fibi-cars-74194519.zappy5.app/services
+שירותי יבוא מכוניות ספורט וטנדרים חשמליים לעסקים. התאמה אישית, בדיקות איכות ושירות מקצועי. קבלו ייעוץ מומחה היום!
+
+### אודות
+https://fibi-cars-74194519.zappy5.app/about
+הכירו את Fibi Cars - מובילים ביבוא מכוניות יוקרה מארצות הברית. ניסיון רב שנים, מקצועיות ושירות אישי. גלו את הסיפור שלנו!
+
+### צור קשר
+https://fibi-cars-74194519.zappy5.app/contact
+צרו קשר עם Fibi Cars לייעוץ מקצועי ביבוא מכוניות יוקרה. מכוניות ספורט וטנדרים חשמליים. קבלו הצעת מחיר מותאמת אישית!
+
+## Legal & Policy
+
+### Privacy Policy
+https://fibi-cars-74194519.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fibi-cars-74194519.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fibi-cars-74194519.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Fibi Cars
+Fibi Cars is a business in the יבוא רכב industry.
+
+## Target Audience
+אנשי עסקים, קבלנים, לקוחות פרטיים ועסקים
+
+## Industry
+יבוא רכב
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://fibi-cars-74194519.zappy5.app/sitemap.xml
+- **Robots.txt**: https://fibi-cars-74194519.zappy5.app/robots.txt
